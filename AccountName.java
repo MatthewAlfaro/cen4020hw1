@@ -1,8 +1,8 @@
 //Matthew Alfaro
 //CEN4020 Assignment1 - GitHub
 
-public class gitHub {
+public class AccountName {
     public static void main(String[] args) {
-        System.out.print("My GitHub account name is: MatthewAlfaro");
+        System.out.println("My GitHub account name is: MatthewAlfaro");
     }
 }
